@@ -1,3 +1,13 @@
 # ninja log v5
 0	241	1584793503	CMakeFiles/native-lib.dir/native-lib.cpp.o	39a8f8b6a87d40bf
 242	304	1584793503	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9a8e750ebdf8935e
+1	246	1584800276	CMakeFiles/native-lib.dir/native-lib.cpp.o	39a8f8b6a87d40bf
+246	320	1584800276	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9a8e750ebdf8935e
+1	240	1584800361	CMakeFiles/native-lib.dir/native-lib.cpp.o	39a8f8b6a87d40bf
+240	301	1584800361	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9a8e750ebdf8935e
+1	233	1584800426	CMakeFiles/native-lib.dir/native-lib.cpp.o	39a8f8b6a87d40bf
+233	295	1584800426	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9a8e750ebdf8935e
+1	236	1584800471	CMakeFiles/native-lib.dir/native-lib.cpp.o	39a8f8b6a87d40bf
+236	296	1584800471	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9a8e750ebdf8935e
+0	241	1584800503	CMakeFiles/native-lib.dir/native-lib.cpp.o	39a8f8b6a87d40bf
+241	302	1584800503	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	9a8e750ebdf8935e

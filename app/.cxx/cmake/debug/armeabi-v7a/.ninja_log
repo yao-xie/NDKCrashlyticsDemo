@@ -1,3 +1,13 @@
 # ninja log v5
 0	231	1584793503	CMakeFiles/native-lib.dir/native-lib.cpp.o	870180372088f852
 231	270	1584793503	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	6a2fc8ad5dd524ee
+0	241	1584800276	CMakeFiles/native-lib.dir/native-lib.cpp.o	870180372088f852
+241	293	1584800276	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	6a2fc8ad5dd524ee
+1	236	1584800361	CMakeFiles/native-lib.dir/native-lib.cpp.o	870180372088f852
+236	272	1584800361	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	6a2fc8ad5dd524ee
+1	238	1584800426	CMakeFiles/native-lib.dir/native-lib.cpp.o	870180372088f852
+238	276	1584800426	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	6a2fc8ad5dd524ee
+1	236	1584800472	CMakeFiles/native-lib.dir/native-lib.cpp.o	870180372088f852
+237	274	1584800472	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	6a2fc8ad5dd524ee
+1	236	1584800503	CMakeFiles/native-lib.dir/native-lib.cpp.o	870180372088f852
+236	274	1584800503	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	6a2fc8ad5dd524ee

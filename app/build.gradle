@@ -1,4 +1,6 @@
 apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+apply plugin: 'io.fabric'
 
 android {
     compileSdkVersion 29
@@ -33,6 +35,10 @@ android {
             version "3.10.2"
         }
     }
+}
+
+crashlytics {
+    enableNdk true
 }
 
 dependencies {
