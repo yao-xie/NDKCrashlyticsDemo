@@ -92,3 +92,5 @@ lint/tmp/
 google-services.json
 
 **/.cxx
+output.json
+private_key.pepk
