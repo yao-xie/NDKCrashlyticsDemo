@@ -1,3 +1,0 @@
-ninja: Entering directory `/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/.cxx/cmake/release/x86_64'
-[1/2] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
-[2/2] Linking CXX shared library /Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so

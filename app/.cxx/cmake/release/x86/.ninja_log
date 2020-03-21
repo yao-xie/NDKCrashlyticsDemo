@@ -1,5 +1,0 @@
-# ninja log v5
-0	241	1584797807	CMakeFiles/native-lib.dir/native-lib.cpp.o	d5eb52dc97345c8e
-242	276	1584797807	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so	ed8926de777a4a25
-0	244	1584800554	CMakeFiles/native-lib.dir/native-lib.cpp.o	d5eb52dc97345c8e
-244	280	1584800554	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so	ed8926de777a4a25

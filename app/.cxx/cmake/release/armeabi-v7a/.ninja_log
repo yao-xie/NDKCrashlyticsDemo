@@ -1,5 +1,0 @@
-# ninja log v5
-0	394	1584797807	CMakeFiles/native-lib.dir/native-lib.cpp.o	f0bbe923f755bf28
-394	448	1584797807	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	6d977a6f9c47d76a
-1	265	1584800553	CMakeFiles/native-lib.dir/native-lib.cpp.o	f0bbe923f755bf28
-265	303	1584800553	/Users/xieyao/Documents/Github/NDKCrashlyticsDemo/app/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	6d977a6f9c47d76a
