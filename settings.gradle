@@ -1,0 +1,2 @@
+rootProject.name='NDKCrashlyticsDemo'
+include ':app'
